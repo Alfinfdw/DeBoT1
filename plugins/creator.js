@@ -7,7 +7,7 @@ let handler = async(m, { conn }) => {
     showAdAttribution: true,
     mediaUrl: data.sc,
     mediaType: 2,
-    body: 'Owner Saya Ganteng Loh Kak',
+    body: 'Owner Saya cantik Loh Kak',
     title: 'Nih My Owner',
     sourceUrl: data.sc,
     thumbnail: await(await fetch(img)).buffer(),
