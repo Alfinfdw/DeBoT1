@@ -280,7 +280,7 @@ let handler = async (m, { conn, usedPrefix: _p, args, command }) => {
 ┗━━━━━━━━━━━━━㉿ 
 ⫹⫺ TIME : ${time}
 ⫹⫺ DATE : ${date}`,
-      footer: '*Bot By NiluhChan*',
+      footer: '*Bot By Queenzy*',
       title: judul,
       buttonText: "Klik Disini Bby",
       sections
