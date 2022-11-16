@@ -280,9 +280,9 @@ let handler = async (m, { conn, usedPrefix: _p, args, command }) => {
 ┗━━━━━━━━━━━━━㉿ 
 ⫹⫺ TIME : ${time}
 ⫹⫺ DATE : ${date}`,
-      footer: '*Bot By DevXyZ*',
+      footer: '*Bot By NiluhChan*',
       title: judul,
-      buttonText: "Klik Disini Tod",
+      buttonText: "Klik Disini Bby",
       sections
     }
     return conn.sendMessage(m.chat, listMessage, { quoted: fake, mentions: await conn.parseMention(judul), contextInfo: { forwardingScore: 99999, isForwarded: true }})
